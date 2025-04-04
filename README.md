@@ -24,7 +24,6 @@ Bilgi teknolojileri ve sistem yönetimi alanında derin bir bilgi ve deneyim bir
 
 Skills: Fortigate and BerqNet Firewall / Microsoft Windows Server / Active Directory / Wireshark / Packet Tracer / Access Point / NAS System / Kali Linux / Cloud / Oracle VM VirtualBox / Hyper-V / VMware Workstation / Microsoft Exchange Server / Microsoft SQL Server / Microsoft Access Database / Microsoft Power BI / Microsoft Excel / Microsoft Studio Code  / WampServer / XAMPP Server / FileZilla / MySQL / SQLite / Excel VBA / Arduino / C# / Javascript / CSS / HTML / XML / Bootstrap / 
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Osman-Yusupov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/osman-yusupov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/osman_yusupovv/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/pcinfoacademi)  
